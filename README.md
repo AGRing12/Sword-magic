@@ -14,5 +14,6 @@ A lightweight 2D action RPG with sword-and-magic combat, 10 bosses + a secret bo
 ## Gameplay
 - Defeat 5 minion waves per stage, then fight the boss.
 - Between stages, enter a Safe Area with a merchant to buy weapons/armor.
-- Level up to increase a stat by +2 (Attack, Magic, Health, Mana).
+- Level up to increase a stat by +1 (Attack, Magic, Health, Mana).
+
 
